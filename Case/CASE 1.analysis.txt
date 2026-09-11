@@ -1,0 +1,529 @@
+========================================
+NARUTO TCG — REPLAY ANALYSIS
+========================================
+
+SEED: 1788986095810
+ACTIONS: 89
+
+INITIAL STATE
+------------
+P1: Life=15, Characters=0
+P2: Life=15, Characters=0
+
+[1] P1 MULLIGAN KEEP
+    P1 Hand: 5 → 6
+    P1 Deck: 40 → 39
+
+
+========================================
+TURN 2
+========================================
+
+P1: Life=15, Characters=0
+P2: Life=15, Characters=0
+
+[2] P1 END TURN
+    P2 Hand: 5 → 7
+    P2 Deck: 40 → 38
+
+
+========================================
+TURN 3
+========================================
+
+P1: Life=15, Characters=0
+P2: Life=15, Characters=0
+
+[3] P2 END TURN
+    P1 Hand: 6 → 8
+    P1 Deck: 39 → 37
+
+[4] P1 ATTACK leader:p1 → LEADER
+
+[5] P2 PASS COUNTER
+    P2 Life: 15 → 14
+
+
+========================================
+TURN 4
+========================================
+
+P1: Life=15, Characters=0
+P2: Life=14, Characters=0
+
+[6] P1 END TURN
+    P2 Hand: 7 → 9
+    P2 Deck: 38 → 36
+
+[7] P2 ATTACK leader:p2 → LEADER
+
+[8] P1 PASS COUNTER
+    P1 Life: 15 → 14
+
+
+========================================
+TURN 5
+========================================
+
+P1: Life=14, Characters=0
+P2: Life=14, Characters=0
+
+[9] P2 END TURN
+    P1 Hand: 8 → 10
+    P1 Deck: 37 → 35
+
+[10] P1 ATTACK leader:p1 → LEADER
+
+[11] P2 PASS COUNTER
+    P2 Life: 14 → 13
+
+
+========================================
+TURN 6
+========================================
+
+P1: Life=14, Characters=0
+P2: Life=13, Characters=0
+
+[12] P1 END TURN
+    P2 Hand: 9 → 11
+    P2 Deck: 36 → 34
+
+[13] P2 ATTACK leader:p2 → LEADER
+
+[14] P1 PASS COUNTER
+    P1 Life: 14 → 13
+
+
+========================================
+TURN 7
+========================================
+
+P1: Life=13, Characters=0
+P2: Life=13, Characters=0
+
+[15] P2 END TURN
+    P1 Hand: 10 → 12
+    P1 Deck: 35 → 33
+
+[16] P1 ATTACK leader:p1 → LEADER
+
+[17] P2 PASS COUNTER
+    P2 Life: 13 → 12
+
+
+========================================
+TURN 8
+========================================
+
+P1: Life=13, Characters=0
+P2: Life=12, Characters=0
+
+[18] P1 END TURN
+    P2 Hand: 11 → 13
+    P2 Deck: 34 → 32
+
+[19] P2 ATTACK leader:p2 → LEADER
+
+[20] P1 PASS COUNTER
+    P1 Life: 13 → 12
+
+
+========================================
+TURN 9
+========================================
+
+P1: Life=12, Characters=0
+P2: Life=12, Characters=0
+
+[21] P2 END TURN
+    P1 Hand: 12 → 14
+    P1 Deck: 33 → 31
+
+[22] P1 ATTACK leader:p1 → LEADER
+
+[23] P2 PASS COUNTER
+    P2 Life: 12 → 11
+
+
+========================================
+TURN 10
+========================================
+
+P1: Life=12, Characters=0
+P2: Life=11, Characters=0
+
+[24] P1 END TURN
+    P2 Hand: 13 → 15
+    P2 Deck: 32 → 30
+
+[25] P2 ATTACK leader:p2 → LEADER
+
+[26] P1 PASS COUNTER
+    P1 Life: 12 → 11
+
+
+========================================
+TURN 11
+========================================
+
+P1: Life=11, Characters=0
+P2: Life=11, Characters=0
+
+[27] P2 END TURN
+    P1 Hand: 14 → 16
+    P1 Deck: 31 → 29
+
+[28] P1 ATTACK leader:p1 → LEADER
+
+[29] P2 PASS COUNTER
+    P2 Life: 11 → 10
+
+
+========================================
+TURN 12
+========================================
+
+P1: Life=11, Characters=0
+P2: Life=10, Characters=0
+
+[30] P1 END TURN
+    P2 Hand: 15 → 17
+    P2 Deck: 30 → 28
+
+[31] P2 ATTACK leader:p2 → LEADER
+
+[32] P1 PASS COUNTER
+    P1 Life: 11 → 10
+
+
+========================================
+TURN 13
+========================================
+
+P1: Life=10, Characters=0
+P2: Life=10, Characters=0
+
+[33] P2 END TURN
+    P1 Hand: 16 → 18
+    P1 Deck: 29 → 27
+
+[34] P1 ATTACK leader:p1 → LEADER
+
+[35] P2 PASS COUNTER
+    P2 Life: 10 → 9
+
+
+========================================
+TURN 14
+========================================
+
+P1: Life=10, Characters=0
+P2: Life=9, Characters=0
+
+[36] P1 END TURN
+    P2 Hand: 17 → 19
+    P2 Deck: 28 → 26
+
+[37] P2 ATTACK leader:p2 → LEADER
+
+[38] P1 PASS COUNTER
+    P1 Life: 10 → 9
+
+
+========================================
+TURN 15
+========================================
+
+P1: Life=9, Characters=0
+P2: Life=9, Characters=0
+
+[39] P2 END TURN
+    P1 Hand: 18 → 20
+    P1 Deck: 27 → 25
+
+[40] P1 ATTACK leader:p1 → LEADER
+
+[41] P2 PASS COUNTER
+    P2 Life: 9 → 8
+
+
+========================================
+TURN 16
+========================================
+
+P1: Life=9, Characters=0
+P2: Life=8, Characters=0
+
+[42] P1 END TURN
+    P2 Hand: 19 → 21
+    P2 Deck: 26 → 24
+
+[43] P2 ATTACK leader:p2 → LEADER
+
+[44] P1 PASS COUNTER
+    P1 Life: 9 → 8
+
+
+========================================
+TURN 17
+========================================
+
+P1: Life=8, Characters=0
+P2: Life=8, Characters=0
+
+[45] P2 END TURN
+    P1 Hand: 20 → 22
+    P1 Deck: 25 → 23
+
+[46] P1 ATTACK leader:p1 → LEADER
+
+[47] P2 PASS COUNTER
+    P2 Life: 8 → 7
+
+
+========================================
+TURN 18
+========================================
+
+P1: Life=8, Characters=0
+P2: Life=7, Characters=0
+
+[48] P1 END TURN
+    P2 Hand: 21 → 23
+    P2 Deck: 24 → 22
+
+[49] P2 ATTACK leader:p2 → LEADER
+
+[50] P1 PASS COUNTER
+    P1 Life: 8 → 7
+
+
+========================================
+TURN 19
+========================================
+
+P1: Life=7, Characters=0
+P2: Life=7, Characters=0
+
+[51] P2 END TURN
+    P1 Hand: 22 → 24
+    P1 Deck: 23 → 21
+
+[52] P1 ATTACK leader:p1 → LEADER
+
+[53] P2 PASS COUNTER
+    P2 Life: 7 → 6
+
+
+========================================
+TURN 20
+========================================
+
+P1: Life=7, Characters=0
+P2: Life=6, Characters=0
+
+[54] P1 END TURN
+    P2 Hand: 23 → 25
+    P2 Deck: 22 → 20
+
+[55] P2 ATTACK leader:p2 → LEADER
+
+[56] P1 PASS COUNTER
+    P1 Life: 7 → 6
+
+
+========================================
+TURN 21
+========================================
+
+P1: Life=6, Characters=0
+P2: Life=6, Characters=0
+
+[57] P2 END TURN
+    P1 Hand: 24 → 26
+    P1 Deck: 21 → 19
+
+[58] P1 ATTACK leader:p1 → LEADER
+
+[59] P2 PASS COUNTER
+    P2 Life: 6 → 5
+
+
+========================================
+TURN 22
+========================================
+
+P1: Life=6, Characters=0
+P2: Life=5, Characters=0
+
+[60] P1 END TURN
+    P2 Hand: 25 → 27
+    P2 Deck: 20 → 18
+
+[61] P2 ATTACK leader:p2 → LEADER
+
+[62] P1 PASS COUNTER
+    P1 Life: 6 → 5
+
+
+========================================
+TURN 23
+========================================
+
+P1: Life=5, Characters=0
+P2: Life=5, Characters=0
+
+[63] P2 END TURN
+    P1 Hand: 26 → 28
+    P1 Deck: 19 → 17
+
+[64] P1 ATTACK leader:p1 → LEADER
+
+[65] P2 PASS COUNTER
+    P2 Life: 5 → 4
+
+
+========================================
+TURN 24
+========================================
+
+P1: Life=5, Characters=0
+P2: Life=4, Characters=0
+
+[66] P1 END TURN
+    P2 Hand: 27 → 29
+    P2 Deck: 18 → 16
+
+[67] P2 ATTACK leader:p2 → LEADER
+
+[68] P1 PASS COUNTER
+    P1 Life: 5 → 4
+
+
+========================================
+TURN 25
+========================================
+
+P1: Life=4, Characters=0
+P2: Life=4, Characters=0
+
+[69] P2 END TURN
+    P1 Hand: 28 → 30
+    P1 Deck: 17 → 15
+
+[70] P1 ATTACK leader:p1 → LEADER
+
+[71] P2 PASS COUNTER
+    P2 Life: 4 → 3
+
+
+========================================
+TURN 26
+========================================
+
+P1: Life=4, Characters=0
+P2: Life=3, Characters=0
+
+[72] P1 END TURN
+    P2 Hand: 29 → 31
+    P2 Deck: 16 → 14
+
+[73] P2 ATTACK leader:p2 → LEADER
+
+[74] P1 PASS COUNTER
+    P1 Life: 4 → 3
+
+
+========================================
+TURN 27
+========================================
+
+P1: Life=3, Characters=0
+P2: Life=3, Characters=0
+
+[75] P2 END TURN
+    P1 Hand: 30 → 32
+    P1 Deck: 15 → 13
+
+[76] P1 ATTACK leader:p1 → LEADER
+
+[77] P2 PASS COUNTER
+    P2 Life: 3 → 2
+
+
+========================================
+TURN 28
+========================================
+
+P1: Life=3, Characters=0
+P2: Life=2, Characters=0
+
+[78] P1 END TURN
+    P2 Hand: 31 → 33
+    P2 Deck: 14 → 12
+
+[79] P2 ATTACK leader:p2 → LEADER
+
+[80] P1 PASS COUNTER
+    P1 Life: 3 → 2
+
+
+========================================
+TURN 29
+========================================
+
+P1: Life=2, Characters=0
+P2: Life=2, Characters=0
+
+[81] P2 END TURN
+    P1 Hand: 32 → 34
+    P1 Deck: 13 → 11
+
+[82] P1 ATTACK leader:p1 → LEADER
+
+[83] P2 PASS COUNTER
+    P2 Life: 2 → 1
+
+
+========================================
+TURN 30
+========================================
+
+P1: Life=2, Characters=0
+P2: Life=1, Characters=0
+
+[84] P1 END TURN
+    P2 Hand: 33 → 35
+    P2 Deck: 12 → 10
+
+[85] P2 ATTACK leader:p2 → LEADER
+
+[86] P1 PASS COUNTER
+    P1 Life: 2 → 1
+
+
+========================================
+TURN 31
+========================================
+
+P1: Life=1, Characters=0
+P2: Life=1, Characters=0
+
+[87] P2 END TURN
+    P1 Hand: 34 → 36
+    P1 Deck: 11 → 9
+
+[88] P1 ATTACK leader:p1 → LEADER
+
+[89] P2 PASS COUNTER
+    P2 Life: 1 → 0
+
+========================================
+FINAL STATE
+========================================
+
+P1: Life=1, Characters=0
+P2: Life=0, Characters=0
+
+WINNER: P1

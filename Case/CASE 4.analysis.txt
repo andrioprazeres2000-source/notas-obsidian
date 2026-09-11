@@ -1,0 +1,830 @@
+========================================
+NARUTO TCG — REPLAY ANALYSIS
+========================================
+
+SEED: 1788986165704
+ACTIONS: 195
+
+INITIAL STATE
+------------
+P1: Life=15, Characters=0
+P2: Life=15, Characters=0
+
+[1] P1 MULLIGAN KEEP
+    P1 Hand: 5 → 6
+    P1 Deck: 40 → 39
+
+[2] P1 SUMMON Hinata Hyuga (N-010) [p1-13-N-010]
+    P1 Characters: 0 → 1
+    P1 Hand: 6 → 5
+
+[3] P2 PASS COUNTER
+
+
+========================================
+TURN 2
+========================================
+
+P1: Life=15, Characters=1 [N-010 [ready, damage=0]]
+P2: Life=15, Characters=0
+
+[4] P1 END TURN
+    P2 Hand: 5 → 7
+    P2 Deck: 40 → 38
+
+[5] P2 SUMMON Hinata Hyuga (N-010) [p2-3-N-010]
+    P2 Characters: 0 → 1
+    P2 Hand: 7 → 6
+
+[6] P1 PASS COUNTER
+
+
+========================================
+TURN 3
+========================================
+
+P1: Life=15, Characters=1 [N-010 [ready, damage=0]]
+P2: Life=15, Characters=1 [N-010 [ready, damage=0]]
+
+[7] P2 END TURN
+    P1 Hand: 5 → 7
+    P1 Deck: 39 → 37
+
+[8] P1 ATTACK Hinata Hyuga (N-010) [p1-13-N-010] → LEADER
+
+[9] P2 PASS COUNTER
+    P2 Life: 15 → 14
+
+[10] P1 SUMMON Hinata Hyuga (N-010) [p1-16-N-010]
+    P1 Characters: 1 → 2
+    P1 Hand: 7 → 6
+
+[11] P2 PASS COUNTER
+
+[12] P1 ATTACK leader:p1 → LEADER
+
+[13] P2 PASS COUNTER
+    P2 Life: 14 → 13
+
+
+========================================
+TURN 4
+========================================
+
+P1: Life=15, Characters=2 [N-010 [rested, damage=0], N-010 [ready, damage=0]]
+P2: Life=13, Characters=1 [N-010 [ready, damage=0]]
+
+[14] P1 END TURN
+    P2 Hand: 6 → 8
+    P2 Deck: 38 → 36
+
+[15] P2 ATTACK Hinata Hyuga (N-010) [p2-3-N-010] → Hinata Hyuga (N-010) [p1-13-N-010]
+
+[16] P1 PASS COUNTER
+    P1 Characters: 2 → 1
+    P1 Trash: 0 → 1
+
+[17] P2 SUMMON Hinata Hyuga (N-010) [p2-37-N-010]
+    P2 Characters: 1 → 2
+    P2 Hand: 8 → 7
+
+[18] P1 PASS COUNTER
+
+[19] P2 ATTACK leader:p2 → LEADER
+
+[20] P1 PASS COUNTER
+    P1 Life: 15 → 14
+
+
+========================================
+TURN 5
+========================================
+
+P1: Life=14, Characters=1 [N-010 [ready, damage=0]]
+P2: Life=13, Characters=2 [N-010 [rested, damage=0], N-010 [ready, damage=0]]
+
+[21] P2 END TURN
+    P1 Hand: 6 → 8
+    P1 Deck: 37 → 35
+
+[22] P1 ATTACK Hinata Hyuga (N-010) [p1-16-N-010] → Hinata Hyuga (N-010) [p2-3-N-010]
+
+[23] P2 PASS COUNTER
+    P2 Characters: 2 → 1
+    P2 Trash: 0 → 1
+
+[24] P1 SUMMON Hinata Hyuga (N-010) [p1-32-N-010]
+    P1 Characters: 1 → 2
+    P1 Hand: 8 → 7
+
+[25] P2 PASS COUNTER
+
+[26] P1 ATTACK leader:p1 → LEADER
+
+[27] P2 PASS COUNTER
+    P2 Life: 13 → 12
+
+
+========================================
+TURN 6
+========================================
+
+P1: Life=14, Characters=2 [N-010 [ready, damage=0], N-010 [rested, damage=0]]
+P2: Life=12, Characters=1 [N-010 [ready, damage=0]]
+
+[28] P1 END TURN
+    P2 Hand: 7 → 9
+    P2 Deck: 36 → 34
+
+[29] P2 ATTACK Hinata Hyuga (N-010) [p2-37-N-010] → Hinata Hyuga (N-010) [p1-16-N-010]
+
+[30] P1 PASS COUNTER
+    P1 Characters: 2 → 1
+    P1 Trash: 1 → 2
+
+[31] P2 SUMMON Hinata Hyuga (N-010) [p2-42-N-010]
+    P2 Characters: 1 → 2
+    P2 Hand: 9 → 8
+
+[32] P1 PASS COUNTER
+
+[33] P2 ATTACK leader:p2 → LEADER
+
+[34] P1 PASS COUNTER
+    P1 Life: 14 → 13
+
+
+========================================
+TURN 7
+========================================
+
+P1: Life=13, Characters=1 [N-010 [ready, damage=0]]
+P2: Life=12, Characters=2 [N-010 [ready, damage=0], N-010 [rested, damage=0]]
+
+[35] P2 END TURN
+    P1 Hand: 7 → 9
+    P1 Deck: 35 → 33
+
+[36] P1 ATTACK Hinata Hyuga (N-010) [p1-32-N-010] → Hinata Hyuga (N-010) [p2-37-N-010]
+
+[37] P2 PASS COUNTER
+    P2 Characters: 2 → 1
+    P2 Trash: 1 → 2
+
+[38] P1 SUMMON Hinata Hyuga (N-010) [p1-42-N-010]
+    P1 Characters: 1 → 2
+    P1 Hand: 9 → 8
+
+[39] P2 PASS COUNTER
+
+[40] P1 ATTACK leader:p1 → LEADER
+
+[41] P2 PASS COUNTER
+    P2 Life: 12 → 11
+
+
+========================================
+TURN 8
+========================================
+
+P1: Life=13, Characters=2 [N-010 [rested, damage=0], N-010 [ready, damage=0]]
+P2: Life=11, Characters=1 [N-010 [ready, damage=0]]
+
+[42] P1 END TURN
+    P2 Hand: 8 → 10
+    P2 Deck: 34 → 32
+
+[43] P2 ATTACK Hinata Hyuga (N-010) [p2-42-N-010] → Hinata Hyuga (N-010) [p1-32-N-010]
+
+[44] P1 PASS COUNTER
+    P1 Characters: 2 → 1
+    P1 Trash: 2 → 3
+
+[45] P2 SUMMON Hinata Hyuga (N-010) [p2-21-N-010]
+    P2 Characters: 1 → 2
+    P2 Hand: 10 → 9
+
+[46] P1 PASS COUNTER
+
+[47] P2 ATTACK leader:p2 → LEADER
+
+[48] P1 PASS COUNTER
+    P1 Life: 13 → 12
+
+
+========================================
+TURN 9
+========================================
+
+P1: Life=12, Characters=1 [N-010 [ready, damage=0]]
+P2: Life=11, Characters=2 [N-010 [rested, damage=0], N-010 [ready, damage=0]]
+
+[49] P2 END TURN
+    P1 Hand: 8 → 10
+    P1 Deck: 33 → 31
+
+[50] P1 ATTACK Hinata Hyuga (N-010) [p1-42-N-010] → Hinata Hyuga (N-010) [p2-42-N-010]
+
+[51] P2 PASS COUNTER
+    P2 Characters: 2 → 1
+    P2 Trash: 2 → 3
+
+[52] P1 SUMMON Hinata Hyuga (N-010) [p1-9-N-010]
+    P1 Characters: 1 → 2
+    P1 Hand: 10 → 9
+
+[53] P2 PASS COUNTER
+
+[54] P1 ATTACK leader:p1 → LEADER
+
+[55] P2 PASS COUNTER
+    P2 Life: 11 → 10
+
+
+========================================
+TURN 10
+========================================
+
+P1: Life=12, Characters=2 [N-010 [ready, damage=0], N-010 [rested, damage=0]]
+P2: Life=10, Characters=1 [N-010 [ready, damage=0]]
+
+[56] P1 END TURN
+    P2 Hand: 9 → 11
+    P2 Deck: 32 → 30
+
+[57] P2 ATTACK Hinata Hyuga (N-010) [p2-21-N-010] → Hinata Hyuga (N-010) [p1-42-N-010]
+
+[58] P1 PASS COUNTER
+    P1 Characters: 2 → 1
+    P1 Trash: 3 → 4
+
+[59] P2 SUMMON Hinata Hyuga (N-010) [p2-33-N-010]
+    P2 Characters: 1 → 2
+    P2 Hand: 11 → 10
+
+[60] P1 PASS COUNTER
+
+[61] P2 ATTACK leader:p2 → LEADER
+
+[62] P1 PASS COUNTER
+    P1 Life: 12 → 11
+
+
+========================================
+TURN 11
+========================================
+
+P1: Life=11, Characters=1 [N-010 [ready, damage=0]]
+P2: Life=10, Characters=2 [N-010 [ready, damage=0], N-010 [rested, damage=0]]
+
+[63] P2 END TURN
+    P1 Hand: 9 → 11
+    P1 Deck: 31 → 29
+
+[64] P1 ATTACK Hinata Hyuga (N-010) [p1-9-N-010] → Hinata Hyuga (N-010) [p2-21-N-010]
+
+[65] P2 PASS COUNTER
+    P2 Characters: 2 → 1
+    P2 Trash: 3 → 4
+
+[66] P1 SUMMON Hinata Hyuga (N-010) [p1-12-N-010]
+    P1 Characters: 1 → 2
+    P1 Hand: 11 → 10
+
+[67] P2 PASS COUNTER
+
+[68] P1 ATTACK leader:p1 → LEADER
+
+[69] P2 PASS COUNTER
+    P2 Life: 10 → 9
+
+
+========================================
+TURN 12
+========================================
+
+P1: Life=11, Characters=2 [N-010 [rested, damage=0], N-010 [ready, damage=0]]
+P2: Life=9, Characters=1 [N-010 [ready, damage=0]]
+
+[70] P1 END TURN
+    P2 Hand: 10 → 12
+    P2 Deck: 30 → 28
+
+[71] P2 ATTACK Hinata Hyuga (N-010) [p2-33-N-010] → Hinata Hyuga (N-010) [p1-9-N-010]
+
+[72] P1 PASS COUNTER
+    P1 Characters: 2 → 1
+    P1 Trash: 4 → 5
+
+[73] P2 SUMMON Hinata Hyuga (N-010) [p2-25-N-010]
+    P2 Characters: 1 → 2
+    P2 Hand: 12 → 11
+
+[74] P1 PASS COUNTER
+
+[75] P2 ATTACK leader:p2 → LEADER
+
+[76] P1 PASS COUNTER
+    P1 Life: 11 → 10
+
+
+========================================
+TURN 13
+========================================
+
+P1: Life=10, Characters=1 [N-010 [ready, damage=0]]
+P2: Life=9, Characters=2 [N-010 [rested, damage=0], N-010 [ready, damage=0]]
+
+[77] P2 END TURN
+    P1 Hand: 10 → 12
+    P1 Deck: 29 → 27
+
+[78] P1 ATTACK Hinata Hyuga (N-010) [p1-12-N-010] → Hinata Hyuga (N-010) [p2-33-N-010]
+
+[79] P2 PASS COUNTER
+    P2 Characters: 2 → 1
+    P2 Trash: 4 → 5
+
+[80] P1 SUMMON Hinata Hyuga (N-010) [p1-20-N-010]
+    P1 Characters: 1 → 2
+    P1 Hand: 12 → 11
+
+[81] P2 PASS COUNTER
+
+[82] P1 ATTACK leader:p1 → LEADER
+
+[83] P2 PASS COUNTER
+    P2 Life: 9 → 8
+
+
+========================================
+TURN 14
+========================================
+
+P1: Life=10, Characters=2 [N-010 [ready, damage=0], N-010 [rested, damage=0]]
+P2: Life=8, Characters=1 [N-010 [ready, damage=0]]
+
+[84] P1 END TURN
+    P2 Hand: 11 → 13
+    P2 Deck: 28 → 26
+
+[85] P2 ATTACK Hinata Hyuga (N-010) [p2-25-N-010] → Hinata Hyuga (N-010) [p1-12-N-010]
+
+[86] P1 PASS COUNTER
+    P1 Characters: 2 → 1
+    P1 Trash: 5 → 6
+
+[87] P2 SUMMON Hinata Hyuga (N-010) [p2-13-N-010]
+    P2 Characters: 1 → 2
+    P2 Hand: 13 → 12
+
+[88] P1 PASS COUNTER
+
+[89] P2 ATTACK leader:p2 → LEADER
+
+[90] P1 PASS COUNTER
+    P1 Life: 10 → 9
+
+
+========================================
+TURN 15
+========================================
+
+P1: Life=9, Characters=1 [N-010 [ready, damage=0]]
+P2: Life=8, Characters=2 [N-010 [ready, damage=0], N-010 [rested, damage=0]]
+
+[91] P2 END TURN
+    P1 Hand: 11 → 13
+    P1 Deck: 27 → 25
+
+[92] P1 ATTACK Hinata Hyuga (N-010) [p1-20-N-010] → Hinata Hyuga (N-010) [p2-25-N-010]
+
+[93] P2 PASS COUNTER
+    P2 Characters: 2 → 1
+    P2 Trash: 5 → 6
+
+[94] P1 SUMMON Hinata Hyuga (N-010) [p1-0-N-010]
+    P1 Characters: 1 → 2
+    P1 Hand: 13 → 12
+
+[95] P2 PASS COUNTER
+
+[96] P1 ATTACK leader:p1 → LEADER
+
+[97] P2 PASS COUNTER
+    P2 Life: 8 → 7
+
+
+========================================
+TURN 16
+========================================
+
+P1: Life=9, Characters=2 [N-010 [rested, damage=0], N-010 [ready, damage=0]]
+P2: Life=7, Characters=1 [N-010 [ready, damage=0]]
+
+[98] P1 END TURN
+    P2 Hand: 12 → 14
+    P2 Deck: 26 → 24
+
+[99] P2 ATTACK Hinata Hyuga (N-010) [p2-13-N-010] → Hinata Hyuga (N-010) [p1-20-N-010]
+
+[100] P1 PASS COUNTER
+    P1 Characters: 2 → 1
+    P1 Trash: 6 → 7
+
+[101] P2 SUMMON Hinata Hyuga (N-010) [p2-40-N-010]
+    P2 Characters: 1 → 2
+    P2 Hand: 14 → 13
+
+[102] P1 PASS COUNTER
+
+[103] P2 ATTACK leader:p2 → LEADER
+
+[104] P1 PASS COUNTER
+    P1 Life: 9 → 8
+
+
+========================================
+TURN 17
+========================================
+
+P1: Life=8, Characters=1 [N-010 [ready, damage=0]]
+P2: Life=7, Characters=2 [N-010 [rested, damage=0], N-010 [ready, damage=0]]
+
+[105] P2 END TURN
+    P1 Hand: 12 → 14
+    P1 Deck: 25 → 23
+
+[106] P1 ATTACK Hinata Hyuga (N-010) [p1-0-N-010] → Hinata Hyuga (N-010) [p2-13-N-010]
+
+[107] P2 PASS COUNTER
+    P2 Characters: 2 → 1
+    P2 Trash: 6 → 7
+
+[108] P1 SUMMON Hinata Hyuga (N-010) [p1-1-N-010]
+    P1 Characters: 1 → 2
+    P1 Hand: 14 → 13
+
+[109] P2 PASS COUNTER
+
+[110] P1 ATTACK leader:p1 → LEADER
+
+[111] P2 PASS COUNTER
+    P2 Life: 7 → 6
+
+
+========================================
+TURN 18
+========================================
+
+P1: Life=8, Characters=2 [N-010 [ready, damage=0], N-010 [rested, damage=0]]
+P2: Life=6, Characters=1 [N-010 [ready, damage=0]]
+
+[112] P1 END TURN
+    P2 Hand: 13 → 15
+    P2 Deck: 24 → 22
+
+[113] P2 ATTACK Hinata Hyuga (N-010) [p2-40-N-010] → Hinata Hyuga (N-010) [p1-0-N-010]
+
+[114] P1 PASS COUNTER
+    P1 Characters: 2 → 1
+    P1 Trash: 7 → 8
+
+[115] P2 SUMMON Hinata Hyuga (N-010) [p2-0-N-010]
+    P2 Characters: 1 → 2
+    P2 Hand: 15 → 14
+
+[116] P1 PASS COUNTER
+
+[117] P2 ATTACK leader:p2 → LEADER
+
+[118] P1 PASS COUNTER
+    P1 Life: 8 → 7
+
+
+========================================
+TURN 19
+========================================
+
+P1: Life=7, Characters=1 [N-010 [ready, damage=0]]
+P2: Life=6, Characters=2 [N-010 [ready, damage=0], N-010 [rested, damage=0]]
+
+[119] P2 END TURN
+    P1 Hand: 13 → 15
+    P1 Deck: 23 → 21
+
+[120] P1 ATTACK Hinata Hyuga (N-010) [p1-1-N-010] → Hinata Hyuga (N-010) [p2-40-N-010]
+
+[121] P2 PASS COUNTER
+    P2 Characters: 2 → 1
+    P2 Trash: 7 → 8
+
+[122] P1 SUMMON Hinata Hyuga (N-010) [p1-14-N-010]
+    P1 Characters: 1 → 2
+    P1 Hand: 15 → 14
+
+[123] P2 PASS COUNTER
+
+[124] P1 ATTACK leader:p1 → LEADER
+
+[125] P2 PASS COUNTER
+    P2 Life: 6 → 5
+
+
+========================================
+TURN 20
+========================================
+
+P1: Life=7, Characters=2 [N-010 [rested, damage=0], N-010 [ready, damage=0]]
+P2: Life=5, Characters=1 [N-010 [ready, damage=0]]
+
+[126] P1 END TURN
+    P2 Hand: 14 → 16
+    P2 Deck: 22 → 20
+
+[127] P2 ATTACK Hinata Hyuga (N-010) [p2-0-N-010] → Hinata Hyuga (N-010) [p1-1-N-010]
+
+[128] P1 PASS COUNTER
+    P1 Characters: 2 → 1
+    P1 Trash: 8 → 9
+
+[129] P2 SUMMON Hinata Hyuga (N-010) [p2-19-N-010]
+    P2 Characters: 1 → 2
+    P2 Hand: 16 → 15
+
+[130] P1 PASS COUNTER
+
+[131] P2 ATTACK leader:p2 → LEADER
+
+[132] P1 PASS COUNTER
+    P1 Life: 7 → 6
+
+
+========================================
+TURN 21
+========================================
+
+P1: Life=6, Characters=1 [N-010 [ready, damage=0]]
+P2: Life=5, Characters=2 [N-010 [rested, damage=0], N-010 [ready, damage=0]]
+
+[133] P2 END TURN
+    P1 Hand: 14 → 16
+    P1 Deck: 21 → 19
+
+[134] P1 ATTACK Hinata Hyuga (N-010) [p1-14-N-010] → Hinata Hyuga (N-010) [p2-0-N-010]
+
+[135] P2 PASS COUNTER
+    P2 Characters: 2 → 1
+    P2 Trash: 8 → 9
+
+[136] P1 SUMMON Hinata Hyuga (N-010) [p1-36-N-010]
+    P1 Characters: 1 → 2
+    P1 Hand: 16 → 15
+
+[137] P2 PASS COUNTER
+
+[138] P1 ATTACK leader:p1 → LEADER
+
+[139] P2 PASS COUNTER
+    P2 Life: 5 → 4
+
+
+========================================
+TURN 22
+========================================
+
+P1: Life=6, Characters=2 [N-010 [ready, damage=0], N-010 [rested, damage=0]]
+P2: Life=4, Characters=1 [N-010 [ready, damage=0]]
+
+[140] P1 END TURN
+    P2 Hand: 15 → 17
+    P2 Deck: 20 → 18
+
+[141] P2 ATTACK Hinata Hyuga (N-010) [p2-19-N-010] → Hinata Hyuga (N-010) [p1-14-N-010]
+
+[142] P1 PASS COUNTER
+    P1 Characters: 2 → 1
+    P1 Trash: 9 → 10
+
+[143] P2 SUMMON Hinata Hyuga (N-010) [p2-8-N-010]
+    P2 Characters: 1 → 2
+    P2 Hand: 17 → 16
+
+[144] P1 PASS COUNTER
+
+[145] P2 ATTACK leader:p2 → LEADER
+
+[146] P1 PASS COUNTER
+    P1 Life: 6 → 5
+
+
+========================================
+TURN 23
+========================================
+
+P1: Life=5, Characters=1 [N-010 [ready, damage=0]]
+P2: Life=4, Characters=2 [N-010 [ready, damage=0], N-010 [rested, damage=0]]
+
+[147] P2 END TURN
+    P1 Hand: 15 → 17
+    P1 Deck: 19 → 17
+
+[148] P1 ATTACK Hinata Hyuga (N-010) [p1-36-N-010] → Hinata Hyuga (N-010) [p2-19-N-010]
+
+[149] P2 PASS COUNTER
+    P2 Characters: 2 → 1
+    P2 Trash: 9 → 10
+
+[150] P1 SUMMON Hinata Hyuga (N-010) [p1-29-N-010]
+    P1 Characters: 1 → 2
+    P1 Hand: 17 → 16
+
+[151] P2 PASS COUNTER
+
+[152] P1 ATTACK leader:p1 → LEADER
+
+[153] P2 PASS COUNTER
+    P2 Life: 4 → 3
+
+
+========================================
+TURN 24
+========================================
+
+P1: Life=5, Characters=2 [N-010 [rested, damage=0], N-010 [ready, damage=0]]
+P2: Life=3, Characters=1 [N-010 [ready, damage=0]]
+
+[154] P1 END TURN
+    P2 Hand: 16 → 18
+    P2 Deck: 18 → 16
+
+[155] P2 ATTACK Hinata Hyuga (N-010) [p2-8-N-010] → Hinata Hyuga (N-010) [p1-36-N-010]
+
+[156] P1 PASS COUNTER
+    P1 Characters: 2 → 1
+    P1 Trash: 10 → 11
+
+[157] P2 SUMMON Hinata Hyuga (N-010) [p2-23-N-010]
+    P2 Characters: 1 → 2
+    P2 Hand: 18 → 17
+
+[158] P1 PASS COUNTER
+
+[159] P2 ATTACK leader:p2 → LEADER
+
+[160] P1 PASS COUNTER
+    P1 Life: 5 → 4
+
+
+========================================
+TURN 25
+========================================
+
+P1: Life=4, Characters=1 [N-010 [ready, damage=0]]
+P2: Life=3, Characters=2 [N-010 [rested, damage=0], N-010 [ready, damage=0]]
+
+[161] P2 END TURN
+    P1 Hand: 16 → 18
+    P1 Deck: 17 → 15
+
+[162] P1 ATTACK Hinata Hyuga (N-010) [p1-29-N-010] → Hinata Hyuga (N-010) [p2-8-N-010]
+
+[163] P2 PASS COUNTER
+    P2 Characters: 2 → 1
+    P2 Trash: 10 → 11
+
+[164] P1 SUMMON Hinata Hyuga (N-010) [p1-5-N-010]
+    P1 Characters: 1 → 2
+    P1 Hand: 18 → 17
+
+[165] P2 PASS COUNTER
+
+[166] P1 ATTACK leader:p1 → LEADER
+
+[167] P2 PASS COUNTER
+    P2 Life: 3 → 2
+
+
+========================================
+TURN 26
+========================================
+
+P1: Life=4, Characters=2 [N-010 [ready, damage=0], N-010 [rested, damage=0]]
+P2: Life=2, Characters=1 [N-010 [ready, damage=0]]
+
+[168] P1 END TURN
+    P2 Hand: 17 → 19
+    P2 Deck: 16 → 14
+
+[169] P2 ATTACK Hinata Hyuga (N-010) [p2-23-N-010] → Hinata Hyuga (N-010) [p1-29-N-010]
+
+[170] P1 PASS COUNTER
+    P1 Characters: 2 → 1
+    P1 Trash: 11 → 12
+
+[171] P2 SUMMON Hinata Hyuga (N-010) [p2-31-N-010]
+    P2 Characters: 1 → 2
+    P2 Hand: 19 → 18
+
+[172] P1 PASS COUNTER
+
+[173] P2 ATTACK leader:p2 → LEADER
+
+[174] P1 PASS COUNTER
+    P1 Life: 4 → 3
+
+
+========================================
+TURN 27
+========================================
+
+P1: Life=3, Characters=1 [N-010 [ready, damage=0]]
+P2: Life=2, Characters=2 [N-010 [ready, damage=0], N-010 [rested, damage=0]]
+
+[175] P2 END TURN
+    P1 Hand: 17 → 19
+    P1 Deck: 15 → 13
+
+[176] P1 ATTACK Hinata Hyuga (N-010) [p1-5-N-010] → Hinata Hyuga (N-010) [p2-23-N-010]
+
+[177] P2 PASS COUNTER
+    P2 Characters: 2 → 1
+    P2 Trash: 11 → 12
+
+[178] P1 SUMMON Hinata Hyuga (N-010) [p1-28-N-010]
+    P1 Characters: 1 → 2
+    P1 Hand: 19 → 18
+
+[179] P2 PASS COUNTER
+
+[180] P1 ATTACK leader:p1 → LEADER
+
+[181] P2 PASS COUNTER
+    P2 Life: 2 → 1
+
+
+========================================
+TURN 28
+========================================
+
+P1: Life=3, Characters=2 [N-010 [rested, damage=0], N-010 [ready, damage=0]]
+P2: Life=1, Characters=1 [N-010 [ready, damage=0]]
+
+[182] P1 END TURN
+    P2 Hand: 18 → 20
+    P2 Deck: 14 → 12
+
+[183] P2 ATTACK Hinata Hyuga (N-010) [p2-31-N-010] → Hinata Hyuga (N-010) [p1-5-N-010]
+
+[184] P1 PASS COUNTER
+    P1 Characters: 2 → 1
+    P1 Trash: 12 → 13
+
+[185] P2 SUMMON Hinata Hyuga (N-010) [p2-5-N-010]
+    P2 Characters: 1 → 2
+    P2 Hand: 20 → 19
+
+[186] P1 PASS COUNTER
+
+[187] P2 ATTACK leader:p2 → LEADER
+
+[188] P1 PASS COUNTER
+    P1 Life: 3 → 2
+
+
+========================================
+TURN 29
+========================================
+
+P1: Life=2, Characters=1 [N-010 [ready, damage=0]]
+P2: Life=1, Characters=2 [N-010 [rested, damage=0], N-010 [ready, damage=0]]
+
+[189] P2 END TURN
+    P1 Hand: 18 → 20
+    P1 Deck: 13 → 11
+
+[190] P1 ATTACK Hinata Hyuga (N-010) [p1-28-N-010] → Hinata Hyuga (N-010) [p2-31-N-010]
+
+[191] P2 PASS COUNTER
+    P2 Characters: 2 → 1
+    P2 Trash: 12 → 13
+
+[192] P1 SUMMON Hinata Hyuga (N-010) [p1-44-N-010]
+    P1 Characters: 1 → 2
+    P1 Hand: 20 → 19
+
+[193] P2 PASS COUNTER
+
+[194] P1 ATTACK leader:p1 → LEADER
+
+[195] P2 PASS COUNTER
+    P2 Life: 1 → 0
+
+========================================
+FINAL STATE
+========================================
+
+P1: Life=2, Characters=2 [N-010 [ready, damage=0], N-010 [rested, damage=0]]
+P2: Life=0, Characters=1 [N-010 [ready, damage=0]]
+
+WINNER: P1
